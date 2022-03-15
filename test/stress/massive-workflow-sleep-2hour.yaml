@@ -8,6 +8,6 @@ spec:
       - name: nodes
         value: "2"
       - name: sleep
-        value: "30s"
+        value: "7200s"
   workflowTemplateRef:
     name: massive
